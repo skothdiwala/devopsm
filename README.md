@@ -1,2 +1,3 @@
 Hello and welcome.
-I am checking for a second time to see if the CL workflow is working
+I am checking for a second time to see if the CL workflow is working.
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
