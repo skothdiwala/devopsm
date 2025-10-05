@@ -8,4 +8,4 @@ I am checking to see if the CL workflow is working.
 * [![Releases](https://img.shields.io/github/release/skothdiwala/devopsm/all.svg?style=flat-square)](https://github.com/skothdiwala/devops/releases)
 
 * # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/skothdiwala/devopsm/build/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/skothdiwala/devopsm/name/develop?style=flat-square)
