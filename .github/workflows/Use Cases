@@ -1,0 +1,11 @@
+Use Case Example
+A use case has far more information than a user story. It therefore provides more detail to the developers about what is expected in the system. We look at a more fully-fledged use case example in Lab 05. Here we will look at some of the sections:
+•	Goal in Context: a longer statement of the goal, if needed.
+•	Scope: what system is considered black-box under design.
+•	Level: one of: Summary, Primary task, subfunction.
+•	Preconditions: what we expect is already the state of the world.
+•	Success End Condition: the state of the world upon successful completion.
+•	Failed End Condition: the state of the world if goal abandoned.
+•	Primary Actor: a role name for the primary actor, or description.
+•	Trigger: the action upon the system that starts the use case, may be a time event.
+•	Main Success Scenario: put here the steps of the scenario from trigger to goal delivery, and any cleanup after.
