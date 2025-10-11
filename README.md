@@ -1,5 +1,4 @@
-Hello and welcome.
-I am checking for a 2nd time to see if the CL workflow is working.
-![workflow](https://github.com/skothdiwala/devopsm/actions/workflows/main.yml/badge.svg)
-[![LICENSE](https://img.shields.io/github/license/skothdiwala/devops.svg?style=flat-square)](https://github.com/skothdiwala/devops/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/release/skothdiwala/devops/all.svg?style=flat-square)](https://github.com/github-skothdiwala/devops/releases)
+* Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/skothdiwala/devopsm/main.yml?branch=main)
+* Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/skothdiwala/devopsm/main.yml?branch=main)
+* License [![LICENSE](https://img.shields.io/github/license/skothdiwala/devopsm.svg?style=flat-square)](https://github.com/acole-407930/SET08803-Coursework-Group-15/blob/master/LICENSE)
+* Release [![Releases](https://img.shields.io/github/release/skothdiwala/devopsm/all.svg?style=flat-square)](https://github.com/acole-407930/SET08803-Coursework-Group-15/releases)
